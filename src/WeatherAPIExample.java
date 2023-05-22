@@ -5,6 +5,7 @@ import java.net.http.HttpRequest;
 import java.net.http.HttpResponse;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
+// maven gradle dependency management jackson databind
 
 public class WeatherAPIExample {
     private static final String ACCESS_KEY = "4bd29899edb6fb0f3e0e032dcc9ea7e3";
